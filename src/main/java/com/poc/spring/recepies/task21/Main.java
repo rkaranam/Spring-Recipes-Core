@@ -4,6 +4,8 @@ import org.apache.log4j.Logger;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.GenericXmlApplicationContext;
 
+//Task 2-1. Manage and Configure POJOs with the Spring IoC Container
+
 public class Main {
 
 	@SuppressWarnings("resource")
